@@ -23,6 +23,30 @@
 			"level": "2",
 			"instruments": ["horns", "guitar", "drums"],
 			"colors": ["yellow", "red", "blue", "green"]
+		},
+		"2": {
+			"num": "C003",
+			"enabled": "false",
+			"quantity": "0",
+			"title": "Main Title Theme (Remix)",
+			"artist": "G.I. Joe",
+			"type": "wild",
+			"baffler": "false",
+			"level": "2",
+			"instruments": ["vocals", "synths", "drums"],
+			"colors": ["yellow", "red", "blue", "green"]
+		},
+		"3": {
+			"num": "C003",
+			"enabled": "false",
+			"quantity": "0",
+			"title": "Main Title Theme",
+			"artist": "Mighty Morphin Power Rangers",
+			"type": "wild",
+			"baffler": "false",
+			"level": "2",
+			"instruments": ["vocals", "guitar", "drums"],
+			"colors": ["yellow", "red", "blue", "green"]
 		}
 	}	
 }
