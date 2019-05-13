@@ -1,1 +1,28 @@
-{}
+{
+	"Promo": {
+		"0": {
+			"num": "C001",
+			"enabled": "false",
+			"quantity": "0",
+			"title": "Main Title Song",
+			"artist": "The Transformers",
+			"type": "wild",
+			"baffler": "false",
+			"level": "2",
+			"instruments": ["vocals", "synths", "drums"],
+			"colors": ["yellow", "red", "blue", "green"]
+		},
+		"1": {
+			"num": "C002",
+			"enabled": "false",
+			"quantity": "0",
+			"title": "Flutter Fly (From The Pyre Original Sondtrack)",
+			"artist": "Darren Korb",
+			"type": "wild",
+			"baffler": "false",
+			"level": "2",
+			"instruments": ["horns", "guitar", "drums"],
+			"colors": ["yellow", "red", "blue", "green"]
+		}
+	}	
+}
