@@ -1,0 +1,202 @@
+{
+	"0": {
+		"num": "C106",
+		"title": "Kids",
+		"artist": "MGMT",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"synths",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"1": {
+		"num": "C107",
+		"title": "Genghis Khan",
+		"artist": "Miike Snow",
+		"type": "lead",
+		"level": "2",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"2": {
+		"num": "C108",
+		"title": "Say My Name",
+		"artist": "ODESZA",
+		"type": "lead",
+		"level": "3",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"3": {
+		"num": "C109",
+		"title": "Genghis Khan",
+		"artist": "Miike Snow",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"4": {
+		"num": "C110",
+		"title": "Fermionic",
+		"artist": "The Venona Project",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"5": {
+		"num": "C111",
+		"title": "Somatic",
+		"artist": "Crackcase",
+		"type": "loop",
+		"level": "2",
+		"instruments": [
+			"sampler"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"6": {
+		"num": "C112",
+		"title": "Want to Want Me",
+		"artist": "Jason Derulo",
+		"type": "loop",
+		"level": "3",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"7": {
+		"num": "C113",
+		"title": "Sexy And I Know It",
+		"artist": "LMFAO",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"8": {
+		"num": "C114",
+		"title": "Say My Name",
+		"artist": "ODESZA",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"9": {
+		"num": "C115",
+		"title": "Somatic",
+		"artist": "Crackcase",
+		"type": "beat",
+		"level": "2",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"10": {
+		"num": "C116",
+		"title": "Fermionic",
+		"artist": "The Venona Project",
+		"type": "beat",
+		"level": "3",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"11": {
+		"num": "C117",
+		"title": "Closer",
+		"artist": "The Chainsmokers",
+		"type": "bass",
+		"level": "2",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"12": {
+		"num": "C118",
+		"title": "Fermonic",
+		"artist": "The Venona Project",
+		"type": "bass",
+		"level": "3",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"13": {
+		"num": "C119",
+		"title": "Component Synthesis",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	},
+	"14": {
+		"num": "C120",
+		"title": "Dimensional Shift",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	}
+}

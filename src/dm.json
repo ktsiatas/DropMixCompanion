@@ -1,0 +1,74 @@
+{
+	"0": {
+		"num": "C001",
+		"title": "Main Title Song",
+		"artist": "The Transformers",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"synths",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"1": {
+		"num": "C002",
+		"title": "Flutter Fly (From The Pyre Original Sondtrack)",
+		"artist": "Darren Korb",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"horns",
+			"guitar",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"2": {
+		"num": "C003",
+		"title": "Main Title Theme (Remix)",
+		"artist": "G.I. Joe",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"synths",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"3": {
+		"num": "C003",
+		"title": "Main Title Theme",
+		"artist": "Mighty Morphin Power Rangers",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"guitar",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	}
+}
