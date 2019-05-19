@@ -1,0 +1,202 @@
+{
+	"0": {
+		"num": "C031",
+		"title": "Down With The Sickness",
+		"artist": "Disturbed",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"guitar",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"1": {
+		"num": "C032",
+		"title": "Bring Me To Life",
+		"artist": "Evanescence",
+		"type": "lead",
+		"level": "2",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"2": {
+		"num": "C033",
+		"title": "Sing",
+		"artist": "Ed Sheeran",
+		"type": "lead",
+		"level": "3",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"3": {
+		"num": "C034",
+		"title": "Sing",
+		"artist": "Ed Sheeran",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"4": {
+		"num": "C035",
+		"title": "Strychnine Baby",
+		"artist": "Warlords of the Old West",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"5": {
+		"num": "C036",
+		"title": "Short Skirt Long Jacket",
+		"artist": "Cake",
+		"type": "loop",
+		"level": "2",
+		"instruments": [
+			"horns"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"6": {
+		"num": "C037",
+		"title": "King of the World",
+		"artist": "Weezer",
+		"type": "loop",
+		"level": "3",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"7": {
+		"num": "C038",
+		"title": "Just About To Snap",
+		"artist": "Pinhole Cage",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"8": {
+		"num": "C039",
+		"title": "Strychnine Baby",
+		"artist": "Warlords of the Old West",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"9": {
+		"num": "C040",
+		"title": "Short Skirt Long Jacket",
+		"artist": "Cake",
+		"type": "beat",
+		"level": "2",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"10": {
+		"num": "C041",
+		"title": "Radioactive",
+		"artist": "Imagine Dragons",
+		"type": "beat",
+		"level": "3",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"11": {
+		"num": "C042",
+		"title": "Centuries",
+		"artist": "Fall Out Boy",
+		"type": "bass",
+		"level": "2",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"12": {
+		"num": "C043",
+		"title": "Bring Me To Life",
+		"artist": "Evanescence",
+		"type": "bass",
+		"level": "3",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"13": {
+		"num": "C044",
+		"title": "String of Fate",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	},
+	"14": {
+		"num": "C045",
+		"title": "The Heartless One",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	}
+}
