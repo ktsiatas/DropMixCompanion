@@ -1,0 +1,202 @@
+{
+	"0": {
+		"num": "C151",
+		"title": "Am I Wrong (Ft. Schoolboy Q)",
+		"artist": "Anderson PAAK",
+		"type": "wild",
+		"level": "2",
+		"instruments": [
+			"vocals",
+			"synths",
+			"drums"
+		],
+		"colors": [
+			"yellow",
+			"red",
+			"blue",
+			"green"
+		]
+	},
+	"1": {
+		"num": "C152",
+		"title": "Pump Up The Jam",
+		"artist": "Technotronic",
+		"type": "lead",
+		"level": "2",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"2": {
+		"num": "C153",
+		"title": "Boom Boom Pow",
+		"artist": "The Black Eyed Peas",
+		"type": "lead",
+		"level": "3",
+		"instruments": [
+			"vocals"
+		],
+		"colors": [
+			"yellow"
+		]
+	},
+	"3": {
+		"num": "C154",
+		"title": "Can't Feel My Face",
+		"artist": "The Weeknd",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"guitar"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"4": {
+		"num": "C155",
+		"title": "Theme From Broken Protocol",
+		"artist": "Victoria Chance",
+		"type": "loop",
+		"level": "1",
+		"instruments": [
+			"strings"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"5": {
+		"num": "C156",
+		"title": "Better Wake Up",
+		"artist": "Joliet",
+		"type": "loop",
+		"level": "2",
+		"instruments": [
+			"sampler"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"6": {
+		"num": "C157",
+		"title": "The Game Got You",
+		"artist": "Skrewbert",
+		"type": "loop",
+		"level": "3",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"red"
+		]
+	},
+	"7": {
+		"num": "C158",
+		"title": "Boom Boom Pow",
+		"artist": "The Black Eyed Peas",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"8": {
+		"num": "C159",
+		"title": "Theme From Broken Protocol",
+		"artist": "Victoria Chance",
+		"type": "beat",
+		"level": "1",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"9": {
+		"num": "C160",
+		"title": "Push It",
+		"artist": "Salt-N-Pepa",
+		"type": "beat",
+		"level": "2",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"10": {
+		"num": "C161",
+		"title": "Better Wake Up",
+		"artist": "Joliet",
+		"type": "beat",
+		"level": "3",
+		"instruments": [
+			"drums"
+		],
+		"colors": [
+			"blue"
+		]
+	},
+	"11": {
+		"num": "C162",
+		"title": "Pump Up The Jam",
+		"artist": "Technotronic",
+		"type": "bass",
+		"level": "2",
+		"instruments": [
+			"synths"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"12": {
+		"num": "C163",
+		"title": "Them From Broken Protocol",
+		"artist": "Victoria Chance",
+		"type": "bass",
+		"level": "3",
+		"instruments": [
+			"strings"
+		],
+		"colors": [
+			"green"
+		]
+	},
+	"13": {
+		"num": "C164",
+		"title": "Third Wave",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	},
+	"14": {
+		"num": "C165",
+		"title": "First Chair",
+		"artist": "FX",
+		"type": "FX",
+		"level": "2",
+		"instruments": [
+			"fx"
+		],
+		"colors": [
+			"white"
+		]
+	}
+}
